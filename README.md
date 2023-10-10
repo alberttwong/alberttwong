@@ -7,7 +7,11 @@
 - 💬 Ask me about Retail, eCommerce, java programming, application integration, Cloud-Native technology, databases
 - 📫 How to reach me: Email me at atwong@alumni.uci.edu or http://linkedin.com/in/atwong
 - ⚡ Fun fact: My hobbies are #BoardGames #Comics #Skeet #VideoGames #Pinball #Magic #YelpElite.
-- Proud graduate of <a href=http://ics.uci.edu><img src=https://ics.uci.edu/wp-content/uploads/2020/06/logo-fullcolor.svg></a>
+
+<div align="center">
+  Proud graduate of <a href=http://ics.uci.edu><img src=https://ics.uci.edu/wp-content/uploads/2020/06/logo-fullcolor.svg></a>
+</div>
+
   
 ---
 
