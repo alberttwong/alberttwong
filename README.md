@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as the Head of Developer Relations, Community, and Technology Partnerships at Starrocks.io, a Linux Foundation project that aims to be the fastest OLAP database.
+- 🔭 I’m currently working as the Head of Developer Relations, Community, and Technology Partnerships at <a href=starrocks.io>Starrocks.io</a>, a Linux Foundation project that aims to be the fastest OLAP database.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on items that will help with my OKRs of community growth and engagement.
 - 🤔 I’m looking for help with ...
