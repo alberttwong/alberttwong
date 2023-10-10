@@ -20,7 +20,7 @@
 </p>
 
 <div align="left">
-  <a href="https://github.com/otacilio-psf">
+  <a href="https://github.com/alberttwong">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alberttwong&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberttwong&layout=compact&langs_count=7"/>
 </div>
