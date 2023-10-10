@@ -12,9 +12,13 @@
 
 ### Publications
 
-<div align="left">
-  [Optimizing Twelve-Factor Apps for OpenShift by Red Hat](https://access.redhat.com/articles/1752483)
-</div>
+
+- <a href="https://access.redhat.com/articles/1752483">Optimizing Twelve-Factor Apps for OpenShift by Red Hat</a>
+- [Red Hat JBoss Enterprise Application Server (EAP) and the Payment Card Industry (PCI) Data Security Standard](https://access.redhat.com/articles/1752303)
+- IBM WebSphere Developer Technical Journal: The top Java EE best practices
+- [IBM Redbook Case Study: SOA Retail Business Pattern](https://www.redbooks.ibm.com/abstracts/redp4459.html)
+- Tips for improving Search Engine Optimization (SEO) with IBM WebSphere Commerce
+
 
 ### Patents
 
