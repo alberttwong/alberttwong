@@ -15,7 +15,7 @@
   
 ---
 
-### Publications, Videos and Assets
+### Publications, Videos and Open Source Projects
 
 - [Tabular (Apache Iceberg) Webinar on CelerData integration](https://www.youtube.com/watch?v=bAmcTrX7hCI)
 - [Querying Data on Apache Hudi with StarRocks - Apache Hudi [MAY 2023] Community Call](https://www.youtube.com/watch?v=k5QmB4wmef4)
