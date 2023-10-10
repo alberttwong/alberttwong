@@ -55,7 +55,14 @@
 
   <img height=110 src="https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Certification%20Badges/Official/SAI_BadgeSizes_DigitalBadging_CSM.png" alt="trophy" /> 
 
+  <img src="https://images.credly.com/size/110x110/images/fccd2435-08a7-4e26-a923-dc17fa92fa04/WebSphere_Application_Server_Network_Deployment_V9.0.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/539cfbad-02d0-40c9-87d9-42a3b80af4cd/Integration_Bus_v10.0.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/d4028bc5-20d4-41ca-867c-954fadebd456/IBM_MQ_Developer_Essentials.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/4a14f9a0-96c5-4863-a08a-0927adfcb2f9/Commerce_-_WebSphere_Found_-_v7.png" alt="trophy" />
+
+  <img src="https://images.credly.com/size/110x110/images/be7f90cd-f3ac-4e0d-82c4-0aa5e78e7918/Architect-Experienced.png" alt="trophy" />
   <img src="https://images.credly.com/size/110x110/images/50eb2436-5a87-4357-8893-7920aabe3a5f/Parent-Issuance.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/a51e9d79-63ac-4cd4-9856-08029d087014/Team-SD.png" alt="trophy" />
 
   <img src="https://images.credly.com/size/110x110/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png" alt="trophy" />
 </p>
