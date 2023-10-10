@@ -15,9 +15,11 @@
   
 ---
 
-### Publications
+### Publications and Videos
 
-
+- [Tabular (Apache Iceberg) & CelerData integration](https://www.youtube.com/watch?v=bAmcTrX7hCI)
+- [Querying Data on Apache Hudi with StarRocks - Apache Hudi [MAY 2023] Community Call](https://www.youtube.com/watch?v=k5QmB4wmef4)
+- [Demystifying Sharding in MongoDB at MongoDB SF Annual Conference](https://www.youtube.com/watch?v=8sk75-6W0ik)
 - <a href="https://access.redhat.com/articles/1752483">Optimizing Twelve-Factor Apps for OpenShift by Red Hat</a>
 - [Red Hat JBoss Enterprise Application Server (EAP) and the Payment Card Industry (PCI) Data Security Standard](https://access.redhat.com/articles/1752303)
 - IBM WebSphere Developer Technical Journal: The top Java EE best practices
