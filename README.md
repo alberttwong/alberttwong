@@ -19,6 +19,8 @@
   <img src="https://images.credly.com/size/110x110/images/28452e24-9165-415a-9a06-80dbb835f08d/image.png" alt="trophy" />
 </p>
 
-<p align=""> 
-  <img src="https://github-profile-trophy.vercel.app/?username=alberttwong" alt="trophy" />
-</p>
+<div align="left">
+  <a href="https://github.com/otacilio-psf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alberttwong&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberttwong&layout=compact&langs_count=7"/>
+</div>
