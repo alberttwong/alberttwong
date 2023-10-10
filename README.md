@@ -13,9 +13,9 @@
 - [My Badges](https://www.credly.com/users/albert-wong.ddd4df5a)
 
 <p align=""> 
-  <img width="200" height="200" src="https://images.credly.com/size/680x680/images/85286156-5fa6-458e-ae00-7887360a025d/image.png" alt="trophy" />
-  <img width="200" height="200" src="https://images.credly.com/size/680x680/images/efde33d7-15b1-4761-82d4-d8fb8e851965/image.png" alt="trophy" />
-  <img width="200" height="200" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" alt="trophy" />
+  <img width="200" height="200" src="https://images.credly.com/size/110x110/images/6096167c-91fd-4e74-bc85-d2100672fef7/image.png" alt="trophy" />
+  <img width="200" height="200" src="https://images.credly.com/size/110x110/images/6ba6b707-b2cc-4cd7-915e-0fed722885c3/image.png" alt="trophy" />
+  <img width="200" height="200" src="https://images.credly.com/size/110x110/images/34bc0014-2add-4516-98ba-984596c5538b/image.png" alt="trophy" />
 </p>
 
 <p align=""> 
