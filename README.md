@@ -30,7 +30,7 @@
 
 ### Patents
 
-|search URL      |<a href="https//patents.google.com/?inventor=albert+t+wong&clustered=true&num=25&oq=albert+t+wong">https//patents.google.com/?inventor=albert+t+wong&clustered=true&num=25&oq=albert+t+wong</a>|
+|search URL      |<a href="https://patents.google.com/?inventor=albert+t+wong&clustered=true&num=25&oq=albert+t+wong">https://patents.google.com/?inventor=albert+t+wong&clustered=true&num=25&oq=albert+t+wong</a>|
 |----------------|----------------------------------------------------------------------------------------|
 |id	|title        |                                                                                        |
 |US-10176370-B2	|Field verification of documents |                                                                                        |
