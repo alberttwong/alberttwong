@@ -9,9 +9,13 @@
 - ⚡ Fun fact: My hobbies are #BoardGames #Comics #Skeet #VideoGames #Pinball #Magic #YelpElite.
 
 <div align="center">
-  Proud graduate and former alumni chapter president of <a href=http://ics.uci.edu><img src=https://ics.uci.edu/wp-content/uploads/2020/06/logo-fullcolor.svg></a>
+  Proud graduate and former alumni chapter president of <p></p><a href=http://ics.uci.edu><img src=https://ics.uci.edu/wp-content/uploads/2020/06/logo-fullcolor.svg></a>
 </div>
 
+<div align="center">
+  <img width=200 src=https://ikonick.com/cdn/shop/files/monopolynew-successfinal_canvas_canvas-vertical_800x800_f3dbc499-4da7-4485-a7a9-b5c47f6ceb30_640x640_crop_center.jpg?v=1684518324>
+  <img width=200 src=https://ikonick.com/cdn/shop/files/monopolynew-happinessfinal_canvas_canvas-vertical_800x800_ca0527a5-96e3-464c-ad3f-31034d882516_640x640_crop_center.jpg?v=1685519551>
+</div>
   
 ---
 
