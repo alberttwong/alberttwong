@@ -30,10 +30,16 @@
 
 ### Patents
 
-<div align="left">
-  <a href="https://patents.google.com/?inventor=albert+t+wong&oq=albert+t+wong">
-<img width="1351" alt="image" src="https://github.com/alberttwong/alberttwong/assets/749093/c2ff1331-0262-4339-8425-c141dfa3cfc4">
-</div>
+|search URL      |<a href="https//patents.google.com/?inventor=albert+t+wong&clustered=true&num=25&oq=albert+t+wong">https//patents.google.com/?inventor=albert+t+wong&clustered=true&num=25&oq=albert+t+wong</a>|
+|----------------|----------------------------------------------------------------------------------------|
+|id	|title        |                                                                                        |
+|US-10176370-B2	|Field verification of documents |                                                                                        |
+|US-2019384818-A1	|Contextual validation of synonyms in otology driven natural language processing |                                                                                        |
+|US-2008294724-A1	|Method and tool for community-based physical location awareness |                                                                                        |
+|US-7581957-B2	|Multiplatform voice over IP learning deployment methodology |                                                                                        |
+|US-2016299885-A1	|Recombining incorrectly separated tokens in natural language processing |                                                                                        |
+|US-2017337529-A1	|Sensory feedback indicators for transactional processes |                                                                                        |
+
 
 ### Certifications
 
