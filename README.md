@@ -33,6 +33,7 @@
 - [Buying your first pinball machine](https://docs.google.com/presentation/d/1wUIPCzpBDDeMunf6jlm1nsliLmKEkopaO2un71k-VRY/edit?usp=sharing)
 - [Pinball Repair and Maintenance Training Session at Museum of Pinball](https://docs.google.com/presentation/d/1oC25QkdXRiDE6xf_GV9VyxjrAdF7jf9XYIGuXxUgEgs/edit?usp=sharing)
 - [http://atwong.yelp.com](http://atwong.yelp.com)
+- [https://www.magician.org/member/atwong](https://www.magician.org/member/atwong)
 
 ### Patents
 
