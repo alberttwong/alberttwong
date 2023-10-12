@@ -29,7 +29,7 @@
 
 ### Hobby Publications
 
-- [Pinball Repair and Maintenance 101](https://docs.google.com/presentation/d/1T9z1QIHAD7Zl5FpS5IQhta5uxkN7DPXekaHhy5TNbjw/edit?usp=sharing)
+- [Pinball Repair and Maintenance 101 Lecture at Museum of Pinball](https://docs.google.com/presentation/d/1T9z1QIHAD7Zl5FpS5IQhta5uxkN7DPXekaHhy5TNbjw/edit?usp=sharing)
 - [Buying your first pinball machine](https://docs.google.com/presentation/d/1wUIPCzpBDDeMunf6jlm1nsliLmKEkopaO2un71k-VRY/edit?usp=sharing)
 - [Pinball Repair and Maintenance Training Session at Museum of Pinball](https://docs.google.com/presentation/d/1oC25QkdXRiDE6xf_GV9VyxjrAdF7jf9XYIGuXxUgEgs/edit?usp=sharing)
 - [http://atwong.yelp.com](http://atwong.yelp.com)
