@@ -30,9 +30,11 @@
 - IBM WebSphere Developer Technical Journal: The top Java EE best practices
 - [IBM Redbook Case Study: SOA Retail Business Pattern](https://www.redbooks.ibm.com/abstracts/redp4459.html)
 - Tips for improving Search Engine Optimization (SEO) with IBM WebSphere Commerce
+- [https://atwong.medium.com/](https://atwong.medium.com/)
 
 ### Hobby Publications
 
+- [https://atwong.medium.com/](https://atwong.medium.com/)
 - [Pinball Repair and Maintenance 101 Lecture at Museum of Pinball](https://docs.google.com/presentation/d/1T9z1QIHAD7Zl5FpS5IQhta5uxkN7DPXekaHhy5TNbjw/edit?usp=sharing)
 - [Buying your first pinball machine Lecture at Museum of Pinball](https://docs.google.com/presentation/d/1wUIPCzpBDDeMunf6jlm1nsliLmKEkopaO2un71k-VRY/edit?usp=sharing)
 - [Pinball Repair and Maintenance Volunteer Training at Museum of Pinball](https://docs.google.com/presentation/d/1oC25QkdXRiDE6xf_GV9VyxjrAdF7jf9XYIGuXxUgEgs/edit?usp=sharing)
@@ -41,6 +43,7 @@
 ### Memberships
 - [https://www.magician.org/member/atwong](https://www.magician.org/member/atwong)
 - [https://www.kiva.org/lender/atwong](https://www.kiva.org/lender/atwong)
+- [https://www.ifpapinball.com/player.php?p=8636](https://www.ifpapinball.com/player.php?p=8636)
 
 ### Patents
 
