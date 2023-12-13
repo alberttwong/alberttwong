@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on items that will help with my OKRs of community growth and engagement.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Retail, eCommerce, java programming, application integration, Cloud-Native technology, databases
-- 📫 How to reach me: Email me at atwong@alumni.uci.edu or http://linkedin.com/in/atwong
+- 📫 How to reach me: Email me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atwong@alumni.uci.edu)](mailto:atwong@alumni.uci.edu) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/atwong)](https://linkedin.com/in/atwong)
 - ⚡ Fun fact: My hobbies are #BoardGames #Comics #Skeet #VideoGames #Pinball #Magic #YelpElite.
 
 <div align="center">
