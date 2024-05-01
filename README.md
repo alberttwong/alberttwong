@@ -48,6 +48,7 @@
 - [Pinball Repair and Maintenance Volunteer Training at Museum of Pinball](https://docs.google.com/presentation/d/1oC25QkdXRiDE6xf_GV9VyxjrAdF7jf9XYIGuXxUgEgs/edit?usp=sharing)
 - [The Poetry Of Yelp: How The Reviews Site Became A Massive Platform For Creativity
 ](https://www.fastcompany.com/3039952/the-poetry-of-yelp-how-the-reviews-site-became-a-massive-platform-for-c): An article written about my Yelp Reviews.
+- [2000+ Yelp Reviews by me](https://www.yelp.com/user_details?userid=j5ezF5mEGpnDwdTmAHci7Q)
 
 ### Memberships
 - [https://www.magician.org/member/atwong](https://www.magician.org/member/atwong)
