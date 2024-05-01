@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as the Head of Developer Relations, Community, and Technology Partnerships at <a href=http://starrocks.io>StarRocks</a> / <a href=http://celerdata.com>CelerData</a>, an open source query engine that that delivers data warehouse performance on the data lake.  [StarRocks received InfoWorld’s 2023 BOSSIE Award for best open source software](https://www.infoworld.com/article/3709196/the-best-open-source-software-of-2023.html).
+- 🔭 I was the Head of Developer Relations, Community, and Technology Partnerships at <a href=http://starrocks.io>StarRocks</a> / <a href=http://celerdata.com>CelerData</a>, an open source query engine that that delivers data warehouse performance on the data lake.  [StarRocks received InfoWorld’s 2023 BOSSIE Award for best open source software](https://www.infoworld.com/article/3709196/the-best-open-source-software-of-2023.html).
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on items that will help with my OKRs of community growth and engagement.
 - 🤔 I’m looking for help with ...
@@ -19,8 +19,11 @@
   
 ---
 
-### Publications, Videos and Open Source Projects
+### Publications, Videos, Podcasts and Open Source Projects
 
+- [StarRocks Community Call Series](https://www.youtube.com/playlist?list=PL0eWwaesODdjCFR9ZkOGEKmuaEowo6lVJ)
+- [StarRocks Community Call: What’s New in 3.2](https://www.youtube.com/watch?v=2h8cL8KWQf8&ab_channel=CelerData)
+- [Designated Driver Episode #1 • CelerData / StarRocks](https://podcasts.apple.com/us/podcast/designated-driver-episode-1-celerdata-starrocks/id1612532253?i=1000642704018) 
 - [Tabular (Apache Iceberg) Webinar on CelerData integration](https://www.youtube.com/watch?v=bAmcTrX7hCI)
 - [Querying Data on Apache Hudi with StarRocks - Apache Hudi [MAY 2023] Community Call](https://www.youtube.com/watch?v=k5QmB4wmef4)
 - [Demystifying Sharding in MongoDB at MongoDB SF Annual Conference](https://www.youtube.com/watch?v=8sk75-6W0ik)
