@@ -27,7 +27,8 @@
 - [Medallion Architecture Tarnished? Data Lakehouses Offer a New Path](https://blog.devgenius.io/medallion-architecture-tarnished-data-lakehouses-offer-a-new-path-384402f63892): Over 3.75+ views and 2.3k+ reads.
 - [Starrocks Reference Architectures using Excalidraw](https://github.com/StarRocks/starrocks-reference-architecture)
 - [StarRocks Community Call: What’s New in 3.2](https://www.youtube.com/watch?v=2h8cL8KWQf8&ab_channel=CelerData)
-- [Designated Driver Episode #1 • CelerData / StarRocks](https://podcasts.apple.com/us/podcast/designated-driver-episode-1-celerdata-starrocks/id1612532253?i=1000642704018) 
+- [Preset.io Designated Driver Episode #1 • CelerData / StarRocks](https://podcasts.apple.com/us/podcast/designated-driver-episode-1-celerdata-starrocks/id1612532253?i=1000642704018)
+- [StarRocks Community Call: MinIO + StarRocks](https://www.youtube.com/watch?v=-aZ2O2ADzd4&pp=ygUPc3RhcnJvY2tzIG1pbmlv)
 - [Tabular (Apache Iceberg) Webinar on CelerData integration](https://www.youtube.com/watch?v=bAmcTrX7hCI)
 - [Querying Data on Apache Hudi with StarRocks - Apache Hudi [MAY 2023] Community Call](https://www.youtube.com/watch?v=k5QmB4wmef4)
 - [Demystifying Sharding in MongoDB at MongoDB SF Annual Conference](https://www.youtube.com/watch?v=8sk75-6W0ik)
