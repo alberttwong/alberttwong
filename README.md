@@ -22,6 +22,9 @@
 ### Publications, Videos, Podcasts and Open Source Projects
 
 - [StarRocks Community Call Series](https://www.youtube.com/playlist?list=PL0eWwaesODdjCFR9ZkOGEKmuaEowo6lVJ)
+- [Top Open Source Alternatives to OLAP databases Snowflake, RedShift, and BigQuery](https://atwong.medium.com/top-open-source-alternatives-to-olap-databases-snowflake-redshift-and-bigquery-21b4f0f0cd31): #1 entry on google search "top open source snowflake alternative" as of May 1, 2024.
+- [Database cubes are dead; what is their replacement?](https://atwong.medium.com/database-cubes-are-dead-what-is-their-replacement-999a0014f32c): Over 3.7k+ views and 2.4k+ reads.
+- [Medallion Architecture Tarnished? Data Lakehouses Offer a New Path](https://blog.devgenius.io/medallion-architecture-tarnished-data-lakehouses-offer-a-new-path-384402f63892): Over 3.75+ views and 2.3k+ reads.
 - [StarRocks Community Call: What’s New in 3.2](https://www.youtube.com/watch?v=2h8cL8KWQf8&ab_channel=CelerData)
 - [Designated Driver Episode #1 • CelerData / StarRocks](https://podcasts.apple.com/us/podcast/designated-driver-episode-1-celerdata-starrocks/id1612532253?i=1000642704018) 
 - [Tabular (Apache Iceberg) Webinar on CelerData integration](https://www.youtube.com/watch?v=bAmcTrX7hCI)
