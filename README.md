@@ -72,6 +72,7 @@
 ### Certifications
 
 <p align=""> 
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102937050" height=110 />
   <img src="https://images.credly.com/size/110x110/images/6ba6b707-b2cc-4cd7-915e-0fed722885c3/image.png" alt="trophy" />
   <img src="https://images.credly.com/size/110x110/images/34bc0014-2add-4516-98ba-984596c5538b/image.png" alt="trophy" />
   <img src="https://images.credly.com/size/110x110/images/28452e24-9165-415a-9a06-80dbb835f08d/image.png" alt="trophy" />
