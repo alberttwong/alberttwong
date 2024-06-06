@@ -21,6 +21,7 @@
 
 ### Publications, Videos, Podcasts and Open Source Projects
 
+- [How CelerData optimized its GTM motion to drive a 75% increase in signal-sourced pipeline](https://www.commonroom.io/customers/celerdata-optimized-go-to-market/): One of my proudest achievements at #CelerData / #StarRocks was contributing to the success of our community qualified leads (#CQL) initiative within the #GTM strategy.
 - [StarRocks Community Call Series](https://www.youtube.com/playlist?list=PL0eWwaesODdjCFR9ZkOGEKmuaEowo6lVJ)
 - [Top Open Source Alternatives to OLAP databases Snowflake, RedShift, and BigQuery](https://atwong.medium.com/top-open-source-alternatives-to-olap-databases-snowflake-redshift-and-bigquery-21b4f0f0cd31): #1 entry on google search "top open source snowflake alternative" as of May 1, 2024.
 - [Database cubes are dead; what is their replacement?](https://atwong.medium.com/database-cubes-are-dead-what-is-their-replacement-999a0014f32c): Over 3.7k+ views and 2.4k+ reads.
