@@ -46,7 +46,7 @@
 
 - [Albert’s List: Exploring the Finest Chocolate Bars from Every Corner of the World](https://atwong.medium.com/alberts-list-exploring-the-finest-chocolate-bars-from-every-corner-of-the-world-c6416238c5ab)
 - [Albert’s list of best Jelly candies in the world; Dufour and Kasugai leads the pack!](https://atwong.medium.com/alberts-list-of-best-jelly-candies-3e397a8920b2)
-- [Pinball Repair and Maintenance 101 Lecture at Museum of Pinball](https://docs.google.com/presentation/d/1T9z1QIHAD7Zl5FpS5IQhta5uxkN7DPXekaHhy5TNbjw/edit?usp=sharing)
+- Pinball Repair and Maintenance 101 Lecture at Museum of Pinball [video lecture](https://www.youtube.com/watch?v=KEB4IgLvq4I&ab_channel=kafaiWong) [slides](https://docs.google.com/presentation/d/1T9z1QIHAD7Zl5FpS5IQhta5uxkN7DPXekaHhy5TNbjw/edit?usp=sharing)
 - [Buying your first pinball machine Lecture at Museum of Pinball](https://docs.google.com/presentation/d/1wUIPCzpBDDeMunf6jlm1nsliLmKEkopaO2un71k-VRY/edit?usp=sharing)
 - [Pinball Repair and Maintenance Volunteer Training at Museum of Pinball](https://docs.google.com/presentation/d/1oC25QkdXRiDE6xf_GV9VyxjrAdF7jf9XYIGuXxUgEgs/edit?usp=sharing)
 - [The Poetry Of Yelp: How The Reviews Site Became A Massive Platform For Creativity
