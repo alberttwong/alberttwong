@@ -37,7 +37,7 @@
 - [Red Hat Reference Architectures using ArchiMate](https://github.com/alberttwong/archi_cloudnative)
 - <a href="https://access.redhat.com/articles/1752483">Optimizing Twelve-Factor Apps for OpenShift by Red Hat</a>
 - [Red Hat JBoss Enterprise Application Server (EAP) and the Payment Card Industry (PCI) Data Security Standard](https://access.redhat.com/articles/1752303)
-- IBM WebSphere Developer Technical Journal: The top Java EE best practices
+- [IBM WebSphere Developer Technical Journal: The top Java EE best practices](https://www.infoq.com/news/2007/02/javaee-best-practices/)
 - [IBM Redbook Case Study: SOA Retail Business Pattern](https://www.redbooks.ibm.com/abstracts/redp4459.html)
 - [Tips for improving Search Engine Optimization (SEO) with IBM WebSphere Commerce](https://help.hcl-software.com/commerce/8.0.0/seositemap/concepts/csdseotips.html)
 - [https://atwong.medium.com/](https://atwong.medium.com/)
