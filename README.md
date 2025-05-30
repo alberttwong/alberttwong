@@ -39,7 +39,7 @@
 - [Red Hat JBoss Enterprise Application Server (EAP) and the Payment Card Industry (PCI) Data Security Standard](https://access.redhat.com/articles/1752303)
 - IBM WebSphere Developer Technical Journal: The top Java EE best practices
 - [IBM Redbook Case Study: SOA Retail Business Pattern](https://www.redbooks.ibm.com/abstracts/redp4459.html)
-- Tips for improving Search Engine Optimization (SEO) with IBM WebSphere Commerce
+- [Tips for improving Search Engine Optimization (SEO) with IBM WebSphere Commerce](https://help.hcl-software.com/commerce/8.0.0/seositemap/concepts/csdseotips.html)
 - [https://atwong.medium.com/](https://atwong.medium.com/)
 
 ### Hobby Publications
