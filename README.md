@@ -90,7 +90,7 @@
   <img src="https://images.credly.com/size/110x110/images/b72dbd4d-654b-499e-96cf-23c2e479ed5a/image.png" alt="trophy" />
   <img src="https://images.credly.com/size/110x110/images/f9b4de93-3647-41b9-a29c-9da66464a277/image.png" alt="trophy" />
 
-  <img height=110 src="https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Certification%20Badges/Official/SAI_BadgeSizes_DigitalBadging_CSM.png" alt="trophy" /> 
+  <img height=110 src="https://bcert.me/bc/html/img/badges/generated/expired/badge-7227.png" alt="trophy" /> 
 
   <img src="https://images.credly.com/size/110x110/images/fccd2435-08a7-4e26-a923-dc17fa92fa04/WebSphere_Application_Server_Network_Deployment_V9.0.png" alt="trophy" />
   <img src="https://images.credly.com/size/110x110/images/539cfbad-02d0-40c9-87d9-42a3b80af4cd/Integration_Bus_v10.0.png" alt="trophy" />
