@@ -58,6 +58,16 @@
 - [https://www.kiva.org/lender/atwong](https://www.kiva.org/lender/atwong)
 - [https://www.ifpapinball.com/player.php?p=8636](https://www.ifpapinball.com/player.php?p=8636)
 
+### Financial Supporter
+- ACLU
+- UC Irvine Alumni Association
+- UNICEF
+- Doctors without Borders
+- Planned Parenthood
+- PBS Socal
+- 49er Cal State Long Beach Foundation
+- Museum of Chinese in America
+
 ### Patents
 
 |search URL      |<a href="https://patents.google.com/?inventor=albert+t+wong&clustered=true&num=25&oq=albert+t+wong">https://patents.google.com/?inventor=albert+t+wong&clustered=true&num=25&oq=albert+t+wong</a>|
