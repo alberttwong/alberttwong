@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently at Redis, where I bring together deep technical expertise and go-to-market strategy from both sides of the software ecosystem. I’ve led and contributed in Sales Engineering and Developer Relations roles at high-growth startups and industry leaders—including Onehouse (a Databricks competitor), CelerData (open-source Snowflake alternative), MongoDB, Red Hat, and IBM. Along the way, I’ve partnered with innovative teams at companies like Michelin, Plaid, Visa, Costco, Home Depot, Target, Palo Alto Networks, Disney, and Coinbase. Earlier in my career, I was on the customer side, working closely with engineering and data teams at Honda R&D and Blue Shield of California. I thrive at the intersection of tech, storytelling, and customer success.
+- 🔭 I’m currently at Redis, where I bring together deep technical expertise and go-to-market strategy from both sides of the software ecosystem. I’ve led and contributed in Sales Engineering and Developer Relations roles at high-growth startups and industry leaders—including Onehouse (a Databricks competitor), CelerData (open-source Snowflake alternative), MongoDB, Red Hat, and IBM. Along the way, I’ve partnered with innovative teams at companies like Michelin, Plaid, Visa, Costco, Home Depot, Target, Palo Alto Networks, Disney, and Coinbase. Earlier in my career, I was on the customer side, working closely with engineering and data teams at Honda R&D and Blue Shield of California. I thrive at the intersection of tech, storytelling, and customer success.  I also have taught Computer Science classes at Cal Poly Pomona and have 3 US patents.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Retail, eCommerce, java programming, application integration, Cloud-Native technology, databases
 - 📫 How to reach me: Email me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atwong@alumni.uci.edu)](mailto:atwong@alumni.uci.edu) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/atwong)](https://linkedin.com/in/atwong)
-- ⚡ Fun fact: My hobbies are #BoardGames #Comics #Skeet #VideoGames #Pinball #Magic #YelpElite #Travel #Candy #RoadBiking.
+- ⚡ Fun fact: My hobbies are #BoardGames #Comics #Skeet #VideoGames #Pinball #Magic #YelpElite #Travel #Candy #RoadBiking #autocross.
 
 <div align="center">
   Proud graduate and former alumni chapter president of University of California, Irvine School of Information and Computer Science<p></p><a href=http://ics.uci.edu><img src="http://ics.uci.edu/wp-content/uploads/2020/06/logo-fullcolor.svg"></a>
