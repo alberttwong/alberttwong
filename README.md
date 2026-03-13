@@ -57,7 +57,7 @@
 - [https://www.magician.org/member/atwong](https://www.magician.org/member/atwong)
 - [https://www.kiva.org/lender/atwong](https://www.kiva.org/lender/atwong)
 - [https://www.ifpapinball.com/player.php?p=8636](https://www.ifpapinball.com/player.php?p=8636)
-- [https://www.scca.com/]
+- [https://www.scca.com/](https://www.scca.com/)
 
 ### Financial Supporter
 - ACLU
