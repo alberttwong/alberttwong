@@ -117,10 +117,6 @@
 
 ### GitHub Stats
 
-<div align="left">
-  <a href="https://github.com/alberttwong">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alberttwong&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberttwong&layout=compact&langs_count=7"/>
-</div>
+[![Albert Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberttwong)](https://github.com/anuraghazra/github-readme-stats)
 
 <img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=97f99f9d-fbc3-4303-a56c-46cb13495a56" />
