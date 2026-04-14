@@ -109,7 +109,6 @@
   <img height=110 src="https://images.credly.com/size/110x110/images/4a14f9a0-96c5-4863-a08a-0927adfcb2f9/Commerce_-_WebSphere_Found_-_v7.png" alt="trophy" />
 
   <img src="https://images.credly.com/size/110x110/images/be7f90cd-f3ac-4e0d-82c4-0aa5e78e7918/Architect-Experienced.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/50eb2436-5a87-4357-8893-7920aabe3a5f/Parent-Issuance.png" alt="trophy" />
   <img src="https://images.credly.com/size/110x110/images/a51e9d79-63ac-4cd4-9856-08029d087014/Team-SD.png" alt="trophy" />
 
   <img src="https://images.credly.com/size/110x110/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png" alt="trophy" />
