@@ -117,6 +117,8 @@
 
 ### GitHub Stats
 
-[![Albert Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberttwong)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=97f99f9d-fbc3-4303-a56c-46cb13495a56" />
