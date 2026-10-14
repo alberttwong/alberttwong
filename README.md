@@ -94,10 +94,7 @@
 
   <img src="https://images.credly.com/size/110x110/images/6096167c-91fd-4e74-bc85-d2100672fef7/image.png" alt="Certification badge" height="110">
   
-  <img src="https://images.credly.com/size/110x110/images/fdac57a1-cecc-4790-89da-ac5e6121fef1/image.png" alt="Certification badge" height="110">
   <img src="https://images.credly.com/size/110x110/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="Certification badge" height="110">
-  <img src="https://images.credly.com/size/110x110/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="Certification badge" height="110">
-  <img src="https://images.credly.com/size/110x110/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" alt="Certification badge" height="110">
   <img src="https://images.credly.com/size/110x110/images/2f835cd9-20d9-4251-b478-d4b17814b850/image.png" alt="Certification badge" height="110">
   <img src="https://images.credly.com/size/110x110/images/1dd8824f-d6b6-4967-906a-7bd3c0063fae/image.png" alt="Certification badge" height="110">
   <img src="https://images.credly.com/size/110x110/images/b72dbd4d-654b-499e-96cf-23c2e479ed5a/image.png" alt="Certification badge" height="110">
@@ -107,10 +104,8 @@
 
   <img src="https://images.credly.com/size/110x110/images/fccd2435-08a7-4e26-a923-dc17fa92fa04/WebSphere_Application_Server_Network_Deployment_V9.0.png" alt="Certification badge" height="110">
   <img src="https://images.credly.com/size/110x110/images/539cfbad-02d0-40c9-87d9-42a3b80af4cd/Integration_Bus_v10.0.png" alt="Certification badge" height="110">
-  <!-- img src="https://images.credly.com/size/110x110/images/d4028bc5-20d4-41ca-867c-954fadebd456/IBM_MQ_Developer_Essentials.png" alt="trophy" / -->
   <img src="https://images.credly.com/size/110x110/images/4a14f9a0-96c5-4863-a08a-0927adfcb2f9/Commerce_-_WebSphere_Found_-_v7.png" alt="Certification badge" height="110">
 
-  <img src="https://images.credly.com/size/110x110/images/be7f90cd-f3ac-4e0d-82c4-0aa5e78e7918/Architect-Experienced.png" alt="Certification badge" height="110">
   <img src="https://images.credly.com/size/110x110/images/a51e9d79-63ac-4cd4-9856-08029d087014/Team-SD.png" alt="Certification badge" height="110">
 
   <img src="https://images.credly.com/size/110x110/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png" alt="Certification badge" height="110">
