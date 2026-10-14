@@ -9,12 +9,14 @@
 - ⚡ Fun fact: My hobbies are #BoardGames #Comics #Skeet #VideoGames #Pinball #Magic #YelpElite #Travel #Candy #RoadBiking #autocross.
 
 <div align="center">
-  Proud graduate and former alumni chapter president of University of California, Irvine School of Information and Computer Science<p></p><a href=http://ics.uci.edu><img src="http://ics.uci.edu/wp-content/uploads/2020/06/logo-fullcolor.svg"></a>
+  Proud graduate and former alumni chapter president of University of California, Irvine School of Information and Computer Science
+  <p></p>
+  <a href="https://ics.uci.edu"><img src="https://ics.uci.edu/wp-content/uploads/2020/06/logo-fullcolor.svg" alt="UC Irvine School of Information and Computer Science" width="500"></a>
 </div>
 
 <div align="center">
-  <img width=200 src=https://ikonick.com/cdn/shop/files/monopolynew-successfinal_canvas_canvas-vertical_800x800_f3dbc499-4da7-4485-a7a9-b5c47f6ceb30_640x640_crop_center.jpg?v=1684518324>
-  <img width=200 src=https://ikonick.com/cdn/shop/files/monopolynew-happinessfinal_canvas_canvas-vertical_800x800_ca0527a5-96e3-464c-ad3f-31034d882516_640x640_crop_center.jpg?v=1685519551>
+  <img src="https://ikonick.com/cdn/shop/files/monopolynew-successfinal_canvas_canvas-vertical_800x800_f3dbc499-4da7-4485-a7a9-b5c47f6ceb30_640x640_crop_center.jpg?v=1684518324" alt="Success artwork" width="200" height="200">
+  <img src="https://ikonick.com/cdn/shop/files/monopolynew-happinessfinal_canvas_canvas-vertical_800x800_ca0527a5-96e3-464c-ad3f-31034d882516_640x640_crop_center.jpg?v=1685519551" alt="Happiness artwork" width="200" height="200">
 </div>
   
 ---
@@ -84,40 +86,40 @@
 
 ### Certifications
 
-<p align=""> 
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102937050" height=110 />
-  <img src="https://images.credly.com/size/110x110/images/6ba6b707-b2cc-4cd7-915e-0fed722885c3/image.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/34bc0014-2add-4516-98ba-984596c5538b/image.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/28452e24-9165-415a-9a06-80dbb835f08d/image.png" alt="trophy" />
+<p>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102937050" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/6ba6b707-b2cc-4cd7-915e-0fed722885c3/image.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/34bc0014-2add-4516-98ba-984596c5538b/image.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/28452e24-9165-415a-9a06-80dbb835f08d/image.png" alt="Certification badge" height="110">
 
-  <img src="https://images.credly.com/size/110x110/images/6096167c-91fd-4e74-bc85-d2100672fef7/image.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/6096167c-91fd-4e74-bc85-d2100672fef7/image.png" alt="Certification badge" height="110">
   
-  <img src="https://images.credly.com/size/110x110/images/fdac57a1-cecc-4790-89da-ac5e6121fef1/image.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/2f835cd9-20d9-4251-b478-d4b17814b850/image.png" alt="trophy" />  
-  <img src="https://images.credly.com/size/110x110/images/1dd8824f-d6b6-4967-906a-7bd3c0063fae/image.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/b72dbd4d-654b-499e-96cf-23c2e479ed5a/image.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/f9b4de93-3647-41b9-a29c-9da66464a277/image.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/fdac57a1-cecc-4790-89da-ac5e6121fef1/image.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/2f835cd9-20d9-4251-b478-d4b17814b850/image.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/1dd8824f-d6b6-4967-906a-7bd3c0063fae/image.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/b72dbd4d-654b-499e-96cf-23c2e479ed5a/image.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/f9b4de93-3647-41b9-a29c-9da66464a277/image.png" alt="Certification badge" height="110">
 
-  <img height=110 src="https://bcert.me/bc/html/img/badges/generated/expired/badge-7227.png" alt="trophy" /> 
+  <img src="https://bcert.me/bc/html/img/badges/generated/expired/badge-7227.png" alt="Certification badge" height="110">
 
-  <img src="https://images.credly.com/size/110x110/images/fccd2435-08a7-4e26-a923-dc17fa92fa04/WebSphere_Application_Server_Network_Deployment_V9.0.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/539cfbad-02d0-40c9-87d9-42a3b80af4cd/Integration_Bus_v10.0.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/fccd2435-08a7-4e26-a923-dc17fa92fa04/WebSphere_Application_Server_Network_Deployment_V9.0.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/539cfbad-02d0-40c9-87d9-42a3b80af4cd/Integration_Bus_v10.0.png" alt="Certification badge" height="110">
   <!-- img src="https://images.credly.com/size/110x110/images/d4028bc5-20d4-41ca-867c-954fadebd456/IBM_MQ_Developer_Essentials.png" alt="trophy" / -->
-  <img height=110 src="https://images.credly.com/size/110x110/images/4a14f9a0-96c5-4863-a08a-0927adfcb2f9/Commerce_-_WebSphere_Found_-_v7.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/4a14f9a0-96c5-4863-a08a-0927adfcb2f9/Commerce_-_WebSphere_Found_-_v7.png" alt="Certification badge" height="110">
 
-  <img src="https://images.credly.com/size/110x110/images/be7f90cd-f3ac-4e0d-82c4-0aa5e78e7918/Architect-Experienced.png" alt="trophy" />
-  <img src="https://images.credly.com/size/110x110/images/a51e9d79-63ac-4cd4-9856-08029d087014/Team-SD.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/be7f90cd-f3ac-4e0d-82c4-0aa5e78e7918/Architect-Experienced.png" alt="Certification badge" height="110">
+  <img src="https://images.credly.com/size/110x110/images/a51e9d79-63ac-4cd4-9856-08029d087014/Team-SD.png" alt="Certification badge" height="110">
 
-  <img src="https://images.credly.com/size/110x110/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png" alt="Certification badge" height="110">
 </p>
 
 ### GitHub Stats
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+<img src="./profile/stats.svg" alt="GitHub stats" height="165">
+<img src="./profile/top-langs.svg" alt="Top languages" height="165">
+<img src="./profile/pin-stats-organization-github-stats-extended.svg" alt="Pinned GitHub Stats Extended repository" width="400" height="120">
 
 <img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=97f99f9d-fbc3-4303-a56c-46cb13495a56" />
