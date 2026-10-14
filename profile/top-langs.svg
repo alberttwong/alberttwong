@@ -20,7 +20,7 @@
             /* Selector detects Firefox */
             .header { font-size: 15.5px; }
           }
-          
+
     @keyframes slideInAnimation {
       from {
         width: 0;
@@ -59,9 +59,11 @@
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
     }
-    
+    .progress-background { fill: #ddd; }
 
-          
+
+
+
       /* Animations */
       @keyframes scaleInAnimation {
         from {
@@ -79,14 +81,20 @@
           opacity: 1;
         }
       }
-    
-          
+
+
         </style>
 
-        
+
+        <defs>
+
+
+        </defs>
+
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -97,7 +105,7 @@
           stroke-opacity="1"
         />
 
-        
+
       <g
         data-testid="card-title"
         transform="translate(25, 35)"
@@ -111,129 +119,128 @@
       >Most Used Languages</text>
     </g>
       </g>
-    
+
 
         <g
           data-testid="main-card-body"
           transform="translate(0, 55)"
         >
-          
+
     <svg data-testid="lang-items" x="25">
-      
-  
+
+
       <mask id="rect-mask">
           <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
         </mask>
-        
+
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="91.53"
+          width="87.49"
           height="8"
           fill="#DA5B0B"
         />
-      
+
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="91.53"
+          x="87.49"
           y="0"
-          width="66.63"
+          width="63.69"
           height="8"
           fill="#3178c6"
         />
-      
+
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="158.16"
+          x="151.18"
           y="0"
-          width="38.06"
+          width="36.38"
           height="8"
           fill="#844FBA"
         />
-      
+
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="196.22"
+          x="187.56"
           y="0"
-          width="36.48"
+          width="35.56"
           height="8"
           fill="#89e051"
         />
-      
+
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="232.7"
+          x="223.12"
           y="0"
-          width="14.95"
+          width="14.29"
           height="8"
           fill="#f1e05a"
         />
-      
+
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.64999999999998"
+          x="237.41"
           y="0"
-          width="12.370000000000001"
+          width="12.59"
           height="8"
-          fill="#000080"
+          fill="#3572A5"
         />
-      
-      
+
+
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 36.61%
+        Jupyter Notebook 35.00%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 26.65%
+        TypeScript 25.48%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#844FBA" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HCL 15.22%
+        HCL 14.55%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 14.59%
+        Shell 14.22%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 5.98%
+        JavaScript 5.72%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#000080" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 0.95%
+        Python 5.04%
       </text>
     </g>
   </g></g>
     </g>
-  
+
     </svg>
-  
+
         </g>
       </svg>
-    
