@@ -115,6 +115,5 @@
 
 <img src="./profile/stats.svg" alt="GitHub stats" height="165">
 <img src="./profile/top-langs.svg" alt="Top languages" height="165">
-<img src="./profile/pin-stats-organization-github-stats-extended.svg" alt="Pinned GitHub Stats Extended repository" width="400" height="120">
 
 <img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=97f99f9d-fbc3-4303-a56c-46cb13495a56" />
