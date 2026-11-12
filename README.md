@@ -59,6 +59,8 @@
 - [https://www.kiva.org/lender/atwong](https://www.kiva.org/lender/atwong)
 - [https://www.ifpapinball.com/player.php?p=8636](https://www.ifpapinball.com/player.php?p=8636)
 - [https://www.scca.com/](https://www.scca.com/)
+- International Brotherhood of Magicians
+- Society of American Magicians
 
 ### Financial Supporter
 - ACLU
